@@ -2,6 +2,8 @@
 
 ![](/assets/Cover_400_600.jpg)
 
+> 本开源书 forked from [Elasticsearch Java API 手册](https://github.com/quanke/elasticsearch-java)，作者为 [quanke](https://github.com/quanke)，欢迎大家 star 原作者的 [repo](https://github.com/quanke/elasticsearch-java)，以便获得最新更新，谢谢！
+
 本手册由 [全科](http://quanke.name) 翻译，并且整理成电子书，支持PDF,ePub,Mobi格式，方便大家下载阅读。
 
 阅读地址：[https://es.quanke.name](https://es.quanke.name)
